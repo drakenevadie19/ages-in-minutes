@@ -6,5 +6,5 @@
     <string name="select_date">SELECT DATE</string>
     <string name="selected_date">Selected Date</string>
     <string name="in_minutes_till_date">In Minutes Till Date</string>
-
+    <string name="selected_date_from_calendar">%1$d/%2$d/%3$d</string>
 </resources>
